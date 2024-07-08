@@ -22,7 +22,7 @@ This project provides a centralized logging and monitoring service using Node.js
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/logging-monitoring-service.git
+   git clone https://github.com/DarkC0der-0/logging-monitoring-service.git
    cd logging-monitoring-service
 2. Build and run the Docker containers:
    ```bash
